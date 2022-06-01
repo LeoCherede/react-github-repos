@@ -1,3 +1,5 @@
+npm install axios
+
 {
   "name": "gama-git",
   "version": "0.1.0",
