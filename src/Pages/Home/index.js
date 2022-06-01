@@ -1,5 +1,5 @@
 // install axios in command line
-npm install axios
+npm install axios;
 
 import React, { useState } from "react";
 import axios from "axios";
